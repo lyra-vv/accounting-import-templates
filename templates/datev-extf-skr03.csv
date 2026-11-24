@@ -1,0 +1,4 @@
+"EXTF";700;21;"Buchungsstapel";12;20260131120000000;;"";"";"";10001;29098;20260101;4;20260101;20260131;"Bank Import";"";1;0;0;"EUR";;"";;;"";"";;;""
+"Umsatz (ohne Soll/Haben-Kz)";"Soll/Haben-Kennzeichen";"WKZ Umsatz";"Kurs";"Basis-Umsatz";"WKZ Basis-Umsatz";"Konto";"Gegenkonto (ohne BU-Schlüssel)";"BU-Schlüssel";"Belegdatum";"Belegfeld 1";"Belegfeld 2";"Skonto";"Buchungstext"
+4820,50;"S";"EUR";;;;"1200";"8400";"";"0501";"20260105-001";"";;"STRIPE PAYOUT ACH DEPOSIT"
+312,40;"H";"EUR";;;;"1200";"4900";"";"0801";"20260108-001";"";;"AWS CLOUD SERVICES"
